@@ -21,7 +21,7 @@
 ◽ <a href="https://github.com/moguedes/Site-Bootstrap5/archive/refs/heads/main.zip">Download</a>🔗 the source code as a zip file.<br>
 ◽ Clone this repository using Git Bash + the command:
 
-       $ https://github.com/moguedes/Site-Bootstrap5.git
+       $ git clone https://github.com/moguedes/Site-Bootstrap5.git
 
 <h3 id="techstack">⚙️ Tech Stack</h3>
 
