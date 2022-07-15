@@ -17,8 +17,8 @@
 
 <h3 id="access-project">📁 Access Project</h3>
 
-◽ <a href="https://github.com/moguedes/memory-game/tree/main">Access</a>🔗 the source code via GitHub. <br>
-◽ <a href="https://github.com/moguedes/memory-game/archive/refs/heads/main.zip">Download</a>🔗 the source code as a zip file.<br>
+◽ <a href="https://github.com/moguedes/Site-Bootstrap5/tree/main">Access</a>🔗 the source code via GitHub. <br>
+◽ <a href="https://github.com/moguedes/Site-Bootstrap5/archive/refs/heads/main.zip">Download</a>🔗 the source code as a zip file.<br>
 ◽ Clone this repository using Git Bash + the command:
 
        $ git clone colocar link
@@ -34,7 +34,7 @@
 
 <h3 id="status">📌 Project Status</h3>
 
-Testing... 🚧
+First Version 🚧
 
 <h3 id="author">✒️ Author</h3>
 
